@@ -1,6 +1,6 @@
 # elements-docker
 
-Docker image that runs the elements sidechain in container for easy scaling.
+Docker image that runs the elements sidechain in container for easy scaling. _Modified from old Docker code; author unknown_
 
 ## Requirements
 
